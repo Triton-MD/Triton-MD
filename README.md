@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ### ❓ Who am I?:
-  I am Stefan, looking for work experience in the computing field, I am based in England and I try to build and design whatever I think of to the best of my abilities starting from zero.
+  I am Stefan, a university student enrolled into a computer science course and looking for work experience in the computing field, I am based in England and I build and design whatever I think of to the best of my abilities starting from scratch.
 
 ### 💻 Tools and Tech:
   I use Visual Studio as my IDE, mainly code in python, however, I recently created my first project in HTML, CSS and JS.
