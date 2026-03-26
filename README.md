@@ -5,6 +5,8 @@
 
 ### 💻 Tools and Tech:
   I use Visual Studio as my IDE, mainly code in python, however, I recently created my first project in HTML, CSS and JS.
+  - 📚 My Tech Stack:
+      - Convex, NEXT.JS, Clerck, Vercel, shadn/ui, tailwindcss
 
 ### 🔭 I’m currently working on :
   Currently on nothing or something private 🤔
