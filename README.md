@@ -9,7 +9,7 @@
       - Convex, NEXT.JS, Clerck, Vercel, shadn/ui, tailwindcss
 
 ### 🔭 I’m currently working on :
-  Currently on nothing or something private 🤔
+  Currently workingon a to do list using HTML and CSS 🤔
 
 ### 🌱 I’m currently learning :
   HTML, CSS and JS to enhance my web development skills.
