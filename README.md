@@ -9,7 +9,7 @@
       - WIP
 
 ### 🔭 I’m currently working on :
-  Currently working on a to do list using HTML and CSS 🤔
+  Data miner using Python 🌐
 
 ### 🌱 I’m currently learning :
   HTML, CSS and JS to enhance my web development skills.
